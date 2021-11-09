@@ -17,6 +17,7 @@ Updated portfolio made after project 2 to showcase new work, information about m
 
 ## Deployed Link
 
+https://gabrielcrosetti.github.io/updated-portfolio/
 
 ## Acknowledgements
 * W3 Schools
